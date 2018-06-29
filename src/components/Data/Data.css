@@ -1,0 +1,13 @@
+.data{
+    margin-top: 500px;
+    font-size: 2em;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+.about{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.values{
+    color: #a939c6;
+}
